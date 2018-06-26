@@ -1,3 +1,5 @@
+*To use this app, please insert your username and API key from https://www.citatum.hu/api.php into the gradle.properties file!*
+
 # Capstone Project - Hungarian Quotes App
 
 ## Stage 1
@@ -31,3 +33,9 @@ In this project, you will demonstrate the skills you've learned in your Nanodegr
 ### What Will I Learn?
 
 The Capstone project will give you the experience you need to own the full development cycle of an app.
+
+## Screenshots:
+
+![screenshot](screenshots/screenshot_2018-06-22-21-58-30.png?raw=true)
+![screenshot](screenshots/screenshot_2018-06-22-22-01-17.png?raw=true)
+![screenshot](screenshots/screenshot_2018-06-25-09-20-05.png?raw=true)
