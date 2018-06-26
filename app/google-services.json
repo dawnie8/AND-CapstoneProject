@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "581395358917",
+    "firebase_url": "https://quotes-c27d4.firebaseio.com",
+    "project_id": "quotes-c27d4",
+    "storage_bucket": "quotes-c27d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581395358917:android:ed17c9b1ca0b44a3",
+        "android_client_info": {
+          "package_name": "ipomoea.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581395358917-cuu8tkvdkfn07f386ckgj96hmeluo86k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRaD6DKxj8H8U-3mD_1JKPObDK-1WqshQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

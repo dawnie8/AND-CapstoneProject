@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hungarian Quotes</string>
+    <string name="send_to">Share with:</string>
+    <string name="cd_favorite_button">Mark as favorite</string>
+    <string name="cd_share_button">Share quote</string>
+    <string name="cd_new_quote_button">New quote</string>
+    <string name="no_network_message">To load new quotes, your device needs to be connected to the internet.\n\nPlease tap here to try again.</string>
+    <string name="add_to_widget">Add to widget</string>
+    <string name="favorite_quotes_menu_item">favorite quotes</string>
+    <string name="random_quotes_menu_item">random quotes</string>
+</resources>
