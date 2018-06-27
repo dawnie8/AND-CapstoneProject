@@ -40,3 +40,11 @@ The Capstone project will give you the experience you need to own the full devel
 ![screenshot](screenshots/screenshot_2018-06-22-21-58-30.png?raw=true)
 ![screenshot](screenshots/screenshot_2018-06-22-22-01-17.png?raw=true)
 ![screenshot](screenshots/screenshot_2018-06-25-09-20-05.png?raw=true)
+
+## The Hungarian Quotes app:
+-	allows users to read random quotes fetched from citatum.hu API
+-	allows users to mark a quote as a favorite
+-	stores the user’s favorite quotes in an SQLite database and displays their favorites collection while offline
+-	implements swipe to delete functionality in the favorites collection
+-	has a companion homescreen widget displaying a desired quote
+-	integrates Firebase Analytics and Crashlytics
