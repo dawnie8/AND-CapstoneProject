@@ -1,5 +1,5 @@
 *To use this app, please insert your username and API key from https://www.citatum.hu/api.php into the gradle.properties file.
-You should also paste your `google-service.json` file into the `app` directory.*
+You should also paste your `google-services.json` file into the `app` directory.*
 
 # Capstone Project - Hungarian Quotes App
 
